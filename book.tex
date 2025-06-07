@@ -1,7 +1,9 @@
-\documentclass[12pt,a4paper]{book}
+\documentclass[10pt,a4paper]{book}
 
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
+\usepackage{enumitem}
+
 
 \title{The Art of War}
 \author{Sun Tzu}
@@ -91,9 +93,68 @@ Captain Valentine Giles, R.G. \\
 \tableofcontents
 \thispagestyle{empty}
 
-\chapter{Introduction}
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
 
 This project is a LaTeX-rendered version of *The Art of War* by Sun Tzu. It is used to demonstrate version control with Git and document preparation with LaTeX.
+
+\chapter*{Preface to the Project Gutenberg Etext}
+\addcontentsline{toc}{chapter}{Preface to the Project Gutenberg Etext}
+
+
+When Lionel Giles began his translation of Sun Tzŭ’s \textit{Art of War}, the work was virtually unknown in Europe. Its introduction to Europe began in 1782 when a French Jesuit Father living in China, Joseph Amiot, acquired a copy of it, and translated it into French. It was not a good translation because, according to Dr. Giles, "[I]t contains a great deal that Sun Tzŭ did not write, and very little indeed of what he did." 
+
+The first translation into English was published in 1905 in Tokyo by Capt. E. F. Calthrop, R.F.A. However, this translation is, in the words of Dr. Giles, "excessively bad." He goes further in this criticism: "It is not merely a question of downright blunders, from which none can hope to be wholly exempt. Omissions were frequent; hard passages were willfully distorted or slurred over. Such offenses are less pardonable. They would not be tolerated in any edition of a Latin or Greek classic, and a similar standard of honesty ought to be insisted upon in translations from Chinese." In 1908 a new edition of Capt. Calthrop’s translation was published in London. It was an improvement on the first—omissions filled up and numerous mistakes corrected—but new errors were created in the process. Dr. Giles, in justifying his translation, wrote: "It was not undertaken out of any inflated estimate of my own powers; but I could not help feeling that Sun Tzŭ deserved a better fate than had befallen him, and I knew that, at any rate, I could hardly fail to improve on the work of my predecessors." 
+
+\newpage
+Clearly, Dr. Giles’ work established much of the groundwork for the work of later translators who published their own editions. Of the later editions of the Art of War I have examined; two feature Giles’ edited translation and notes, the other two present the same basic information from the ancient Chinese commentators found in the Giles edition. Of these four, Giles’ 1910 edition is the most scholarly and presents the reader an incredible amount of information concerning Sun Tzŭ’s text, much more than any other translation.
+
+The Giles’ edition of the Art of War, as stated above, was a scholarly work. Dr. Giles was a leading sinologue at the time and an assistant in the Department of Oriental Printed Books and Manuscripts in the British Museum. Apparently he wanted to produce a definitive edition, superior to anything else that existed and perhaps something that would become a standard translation. It was the best translation available for 50 years. But apparently there was not much interest in Sun Tzŭ in English-speaking countries since it took the start of the Second World War to renew interest in his work. Several people published unsatisfactory English translations of Sun Tzŭ. In 1944, Dr. Giles’ translation was edited and published in the United States in a series of military science books. But it wasn’t until 1963 that a good English translation (by Samuel B. Griffith and still in print) was published that was an equal to Giles’ translation. While this translation is more lucid than Dr. Giles’ translation, it lacks his copious notes that make his so interesting. 
+
+Dr. Giles produced a work primarily intended for scholars of the Chinese civilization and language. It contains the Chinese text of Sun Tzŭ, the English translation, and voluminous notes along with numerous footnotes. Unfortunately, some of his notes and footnotes contain Chinese characters; some are completely Chinese. Thus, a conversion to a Latin alphabet etext was difficult. I did the conversion in complete ignorance of Chinese (except for what I learned while doing the conversion). Thus, I faced the difficult task of paraphrasing it while retaining as much of the important text as I could. Every paraphrase represents a loss; thus I did what I could to retain as much of the text as possible. Because the 1910 text contains a Chinese concordance, I was able to transliterate proper names, books, and the like at the risk of making the text more obscure. However, the text, on the whole, is quite satisfactory for the casual reader, a transformation made possible by conversion to an etext. However, I come away from this task with the feeling of loss because I know that someone with a background in Chinese can do a better job than I did; any such attempt would be welcomed. 
+
+Bob Sutton 
+
+\chapter*{Bibliography}
+\addcontentsline{toc}{chapter}{Bibliography}
+The following are the oldest Chinese treatises on war, after Sun Tzŭ. The notes on each have been drawn principally from the Ssu k’u ch’uan shu chien ming mu lu, ch. 9, fol. 22 sqq. 
+\begin{enumerate}[label=\arabic*., leftmargin=*, labelsep=1em, itemsep=1em, align=left, nosep, wide=0pt]
+    \item \textit{Wu Tzŭ}, in 1 \textit{chuan} or 6 chapters. By Wu Ch’i (d. 381 B.C.). A genuine work. See \textit{Shih Chi}, ch. 65.
+    \item \textit{Ssu-ma Fa}, in 1 \textit{chuan} or 5 chapters. Wrongly attributed to Ssu-ma Jang-chu of the 6th century B.C. Its date, however, must be early, as the customs of the three ancient dynasties are constantly to be met within its pages. See \textit{Shih Chi}, ch. 64.
+    The \textit{Ssu K’u Ch’uan Shu} (ch. 99, f. 1) remarks that the oldest three treatises on war, \textit{Sun Tzŭ}, \textit{Wu Tzŭ} and \textit{Ssu-ma Fa}, are, generally speaking, only concerned with things strictly military—the art of producing, collecting, training and drilling troops, and the correct theory with regard to measures of expediency, laying plans, transport of goods and the handling of soldiers—in strong contrast to later works, in which the science of war is usually blended with metaphysics, divination and magical arts in general.
+    \item \textit{Liu T’ao}, in 6 \textit{chuan}, or 60 chapters. Attributed to Lu Wang (or Lu Shang, also known as T’ai Kung) of the 12th century B.C.\ [74] But its style does not belong to the era of the Three Dynasties. Lu Te-ming (550-625 A.D.) mentions the work, and enumerates the headings of the six sections so that the forgery cannot have been later than Sui dynasty.
+    \item \textit{Wei Liao Tzŭ}, in 5 \textit{chuan}. Attributed to Wei Liao (4th cent. B.C.), who studied under the famous Kuei-ku Tzŭ. The work appears to have been originally in 31 chapters, whereas the text we possess contains only 24. Its matter is sound enough in the main, though the strategical devices differ considerably from those of the Warring States period. It is been furnished with a commentary by the well-known Sung philosopher Chang Tsai. 
+    \item \textit{San Lueh}, in 3 \textit{chuan}. Attributed to Huang-shih Kung, a legendary personage who is said to have bestowed it on Chang Liang (\textit{d}. 187 B.C.) in an interview on a bridge. But here again, the style is not that of works dating from the Ch’in or Han period. The Han Emperor Kuang Wu [25-57 A.D.] apparently quotes from it in one of his proclamations; but the passage in question may have been inserted later on, in order to prove the genuineness of the work. We shall not be far out if we refer it to the Northern Sung period [420-478 A.D.], or somewhat earlier. 
+    \item \textit{Li Wei Kung Wen Tui}, in 3 sections. Written in the form of a dialogue between T’ai Tsung and his great general Li Ching, it is usually ascribed to the latter. Competent authorities consider it a forgery, though the author was evidently well versed in the art of war.
+    \item \textit{Li Ching Ping Fa} (not to be confounded with the foregoing) is a short treatise in 8 chapters, preserved in the T’ung Tien, but not published separately. This fact explains its omission from the \textit{Ssu K’u Ch’uan Shu}.
+    \item \textit{Wu Ch’i Ching}, in 1 \textit{chuan}. Attributed to the legendary minister Feng Hou, with exegetical notes by Kung-sun Hung of the Han dynasty (\textit{d}. 121 B.C.), and said to have been eulogized by the celebrated general Ma Lung (\textit{d}. 300 A.D.). Yet the earliest mention of it is in the \textit{Sung Chih}. Although a forgery, the work is well put together.
+\end{enumerate}
+
+Considering the high popular estimation in which Chu-ko Liang has always been held, it is not surprising to find more than one work on war ascribed to his pen. Such are (1) the \textit{Shih Liu Ts’e} (1 \textit{chuan}), preserved in the \textit{Yung Lo Ta Tien}; (2) \textit{Chiang Yuan} (1 \textit{chuan}); and (3) \textit{Hsin Shu} (1 \textit{chuan}), which steals wholesale from Sun Tzŭ. None of these has the slightest claim to be considered genuine.
+
+Most of the large Chinese encyclopedias contain extensive sections devoted to the literature of war. The following references may be found useful:---\\
+\textit{T’ung Tien} (circa 800 A.D.), ch. 148-162. \\
+\textit{T’ai P’ing Yu Lan} (983), ch. 270-359. \\
+\textit{Wen Hsien Tung K’ao} (13th cent.), ch. 221. \\
+\textit{Yu Hai} (13th cent.), ch. 140, 141. \\
+\textit{San Ts’ai T’u Hui} (16th cent.). \\
+\textit{Kuang Po Wu Chih} (1607), ch. 31, 32. \\
+\textit{Ch’ien Ch’io Lei Shu} (1632), ch. 75. \\
+\textit{Yuan Chien Lei Han} (1710), ch. 206-229. \\
+\textit{Ku Chin T’u Shu Chi Ch’eng} (1726), section XXX, esp. ch. 81-90. \\
+\textit{Hsu Wen Hsien T’ung K’ao} (1784), ch. 121-134. \\
+\textit{Huang Ch’ao Ching Shih Wen Pien} (1826), ch. 76, 77.
+
+The bibliographical sections of certain historical works also deserve mention:---
+\noindent\textit{Ch’ien Han Shu}, ch. 30. \\
+\textit{Sui Shu}, ch. 32-35. \\
+\textit{Chiu T’ang Shu}, ch. 46, 47. \\
+\textit{Hsin T’ang Shu}, ch. 57, 60. \\
+\textit{Sung Shih}, ch. 202-209. \\
+\textit{T’ung Chih} (circa 1150), ch. 68.
+
+To these of course must be added the great Catalogue of the Imperial Library:--- \\
+\indent\textit{Ssu K’u Ch’uan Shu Tsung Mu T’i Yao} (1790), ch. 99, 100.
 
 
 
