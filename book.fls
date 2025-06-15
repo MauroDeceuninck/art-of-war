@@ -108,9 +108,14 @@ INPUT ./book.toc
 INPUT ./book.toc
 INPUT book.toc
 OUTPUT book.toc
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
 INPUT book.aux
 INPUT ./book.out
 INPUT ./book.out
+INPUT c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
@@ -118,5 +123,7 @@ INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb

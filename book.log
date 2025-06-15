@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.6)  7 JUN 2025 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.6)  15 JUN 2025 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,27 +230,44 @@ Overfull \hbox (5.47278pt too wide) in paragraph at lines 148--155
 
 
 
-[12] (./book.aux)
+[12]
+Chapter 1.
+
+
+[13
+
+]
+
+[14]
+Overfull \hbox (1.22289pt too wide) in paragraph at lines 302--303
+[]\OT1/cmr/m/n/10 According as cir-cum-stances are favourable, one should mod-ify one[]2019s plans. 
+ []
+
+
+
+[15]
+
+[16] (./book.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
 Package rerunfilecheck Info: File `book.out' has not changed.
-(rerunfilecheck)             Checksum: 2D987EC98E8BAEC1E347D2171ECA47E0;457.
+(rerunfilecheck)             Checksum: 2C2B1D9985140453C8E47367044B3AF2;624.
  ) 
 Here is how much of TeX's memory you used:
- 8049 strings out of 469830
- 125567 string characters out of 5483859
- 530558 words of memory out of 5000000
- 36274 multiletter control sequences out of 15000+600000
- 631895 words of font info for 57 fonts, out of 8000000 for 9000
+ 8099 strings out of 469830
+ 126033 string characters out of 5483859
+ 534557 words of memory out of 5000000
+ 36286 multiletter control sequences out of 15000+600000
+ 633183 words of font info for 61 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,6n,79p,1282b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on book.pdf (12 pages, 144587 bytes).
+ 75i,6n,79p,1282b,698s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on book.pdf (16 pages, 190353 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

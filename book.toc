@@ -1,3 +1,4 @@
 \contentsline {chapter}{Introduction}{7}{chapter*.2}%
 \contentsline {chapter}{Preface to the Project Gutenberg Etext}{9}{chapter*.3}%
 \contentsline {chapter}{Bibliography}{11}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Chapter I. LAYING PLANS}{13}{chapter.1}%
