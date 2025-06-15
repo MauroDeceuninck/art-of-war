@@ -1,12 +1,16 @@
 # Fdb version 4
-["pdflatex"] 1750005445.95692 "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" "book.pdf" "book" 1750005446.4574 0
-  "book.aux" 1750005446 868 8920d48848c01da85dc14cb1b860f312 "pdflatex"
-  "book.out" 1750005446 786 5f9c4f3538c59f8fdeb45b8378952673 "pdflatex"
-  "book.tex" 1750005445 33780 00ee85c3bb3f6dabcb0729816fd7bded ""
-  "book.toc" 1750005446 348 132d3629560f4eb9e37b1d4cfdeb28b1 "pdflatex"
-  "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" 1750005445 33780 00ee85c3bb3f6dabcb0729816fd7bded ""
+["pdflatex"] 1750007404.76968 "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" "book.pdf" "book" 1750007405.29059 0
+  "book.aux" 1750007405 986 3a87fad11bb21ec0b3cb4b6585d91db4 "pdflatex"
+  "book.out" 1750007405 1012 ebf6fd5f8d644fb66020f986da0d3a91 "pdflatex"
+  "book.tex" 1750007404 40132 8782f824df1df725e85418f66ce82113 ""
+  "book.toc" 1750007405 425 8d470d0df423ba9744576bcef9afb88f "pdflatex"
+  "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" 1750007404 40132 8782f824df1df725e85418f66ce82113 ""
+  "c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1440.600pk" 1750006015 18724 4e85c68345b75dd4f027a020b03179d3 ""
   "c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk" 1749330549 10448 6c8b779a3438f9aa9c9a7d20b511a524 ""
+  "c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1749330153 11524 0cdcddaa8d19cb8dd201421b6470c91a ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcbx1440.tfm" 1749201606 1536 31d7b1d6f1ef88de2aa925487cab16c7 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1749201606 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1749201606 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1749201588 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1749201588 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1749201588 1328 5442e22a7072966dbaf88ca900acf3f0 ""
