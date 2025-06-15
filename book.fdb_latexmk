@@ -1,10 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1750000458.75602 "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" "book.pdf" "book" 1750000459.64903 0
-  "book.aux" 1750000459 672 e158c200809f088a09e007a47c1abfe4 "pdflatex"
-  "book.out" 1750000459 624 2c2b1d9985140453c8e47367044b3af2 "pdflatex"
-  "book.tex" 1750000457 22923 e0e9b3d763ab004732d8a3cf10a384ee ""
-  "book.toc" 1750000459 269 5c9bbb0012511074bace462ea34eba72 "pdflatex"
-  "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" 1750000457 22923 e0e9b3d763ab004732d8a3cf10a384ee ""
+["pdflatex"] 1750005445.95692 "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" "book.pdf" "book" 1750005446.4574 0
+  "book.aux" 1750005446 868 8920d48848c01da85dc14cb1b860f312 "pdflatex"
+  "book.out" 1750005446 786 5f9c4f3538c59f8fdeb45b8378952673 "pdflatex"
+  "book.tex" 1750005445 33780 00ee85c3bb3f6dabcb0729816fd7bded ""
+  "book.toc" 1750005446 348 132d3629560f4eb9e37b1d4cfdeb28b1 "pdflatex"
+  "c:/School/fase3/sem2/software tools for developers/art-of-war/book.tex" 1750005445 33780 00ee85c3bb3f6dabcb0729816fd7bded ""
   "c:/Users/mauro/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk" 1749330549 10448 6c8b779a3438f9aa9c9a7d20b511a524 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1749201606 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1749201588 1328 c834bbb027764024c09d3d2bf908b5f0 ""
